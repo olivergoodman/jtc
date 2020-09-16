@@ -1,7 +1,7 @@
 ---
-title: /contact
+title: projects
 layout: page
-permalink: /contact
+permalink: /projects
 ---
 
 # Get in touch?

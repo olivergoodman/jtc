@@ -1,18 +1,22 @@
 title: 'b2a3e8.github.io'
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
-baseurl: "/jekyll-theme-console-demo-light"
 url: "https://b2a3e8.github.io"
 
 header_pages:
   - index.md
-  - peter.md
   - about.md
-  - contact.md
+  - projects.md
+  - photos.md
 
 style: light 
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '<a href="https://github.com/olivergoodman/" target="_blank">github</a> 
+        <a href="https://linkedin.com/in/oliverbgoodman/" target="_blank">linkedin</a>
+        <a href="https://letterboxd.com/ollygreatman/" target="_blank">letterboxd</a>
+        <a href="https://linkedin.com/in/oliverbgoodman/" target="_blank">email</a>'
 
 # Build settings
 markdown: kramdown
 remote_theme: b2a3e8/jekyll-theme-console
+
+theme: jekyll-theme-console
