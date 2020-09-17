@@ -4,12 +4,9 @@ title: about
 permalink: /about
 ---
 
-# jekyll-theme-console
+I was born and raised in San Francisco, CA. I've also lived in Evanston, IL, Washington DC, and New York City. 
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
-You can find the source code for this theme at [github.com/b2a3e8/jekyll-theme-console](https://github.com/b2a3e8/jekyll-theme-console).
+<br>Some of my titles have been product manager, software developer, film festival coordinator, clothing warehouse boxer, marine mammal care giver, and amateur radio DJ-er.
 
-## What is jekyll?
 
-Jekyll is a simple, blog-aware, static site generator for personal, project, or organization sites. Written in Ruby by Tom Preston-Werner, GitHub's co-founder, it is distributed under an open source license.
-<br />Instead of using databases, Jekyll takes the content, renders Markdown or Textile and Liquid templates, and produces a complete, static website ready to be served by Apache HTTP Server, Nginx or another web server. Jekyll is the engine behind GitHub Pagsadfasdfasdfases, a GitHub feature that allows users to host websites based on their GitHub repositories for no additional cost.
+<br>Feel free to email me: oliverbgoodman [at] gmail.com

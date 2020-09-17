@@ -4,6 +4,7 @@ layout: page
 permalink: /
 ---
 
-# Welcome
 
-Bla bla bla bla. Bla bla bla bla bla bla bla bla.
+<img src="/images/image1.jpg" alt="01" width="100%" />
+
+

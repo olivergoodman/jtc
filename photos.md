@@ -1,9 +1,16 @@
 ---
 title: photography
-layout: home
+<!-- layout: home -->
+layout: page
 permalink: /photography
 ---
 
-# Peter principle
+I usually take photos with an Olympus XA, Canon FTb, or disposable camera.  
 
-The Peter principle is a concept in management developed by Laurence J. Peter, which observes that people in a hierarchy 
+<br>
+<img src="/images/photos/6.jpg" width="100%" />
+<img src="/images/photos/2.jpg" width="100%" />
+<img src="/images/photos/1.jpg" width="500px"  />
+<img src="/images/photos/4.jpg" width="100%" />
+<img src="/images/photos/5.jpg" width="100%" />
+

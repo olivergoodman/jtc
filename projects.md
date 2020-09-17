@@ -4,13 +4,19 @@ layout: page
 permalink: /projects
 ---
 
-# Get in touch?
+# [Empatico](https://www.empatico.org){:target="_blank"}
+I worked as a product manager to help build a platform that connected teachers and students from around the world through online, empathy-bulding virtual exchanges. 
 
-<form>
-  <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
-  <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
-  <textarea rows="5" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
-  <input type="submit" value="[ submit ]">
-</form>
+# [Word coocurrence of political figures](https://word-cooccurrence.herokuapp.com/){:target="_blank"}
+As a research assistant at the [Collab Lab](https://collablab.northwestern.edu/){:target="_blank"} at Northwestern University, I explore how word coocurrence can be used to examine the language of political speeches. 
 
-<br /><br />(This is a demo site, the form doesn't work - If you want to implement a form on your site, you need an external service)
+# [Analyzing the effects of source separation on genre classification](https://genre-classification.herokuapp.com/index.html)
+At Northwestern, my team used machine learning to classify the musical genre of a given audio file. 
+
+
+# [Wireless inventory tracking using IOT](https://github.com/olivergoodman/iot-inventory-tracking/blob/master/IOT_poster.pdf){:target="_blank"}
+My team built a working prototype to explore how IOT can be used for inventory tracking and management.
+
+# Building a mechanical keyboard
+I built my first mechanical keyboard during quarantine. It used a 60% Tofu aluminum case, a DZ60RGB v2 PCB, 62g Zilent switches, HK 9009 key caps. 
+<img src="/images/kb.jpg" alt="01" width="100%" />
